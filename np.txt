@@ -1,0 +1,5 @@
+    conn.sendHydrated(m.chat, text.trim(), 'Ⓟ premium | Ⓛ limit', null, 'Polsek terdekat, Awoawok... dipenjara 9 bulan lu tod', 'Jangan dibuka!!!','6285609524655', 'Telepon Owner via seluler',  [
+      ['Donate', '/donasi'],
+      ['Sewa Bot', '/sewa'],
+      ['Owner', '/owner']
+    ], m, { asLocation: true })
